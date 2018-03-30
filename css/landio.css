@@ -4757,7 +4757,7 @@ h3 {
         height: 1px;
         margin: 30px auto 0;
         content: "";
-        background-color: #ededed; } }
+        background-color: transparent; } }
 
 .card-text {
   font-weight: 300; }
